@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NewRecycleView</string>
+    <string name="colorOne">yellow</string>
+    <string name="colorTwo">pink</string>
+    <string name="colorThree">blue</string>
+
+</resources>
